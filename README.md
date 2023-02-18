@@ -1,6 +1,6 @@
 # Sectoral Productivity Losses from Sovereign Default Events: a simulation-based approach
 
-This folder contains files for the replication of my Summer Report. This was a short quantitative project where I estimated parameters associated with default cost between sectors (tradable and nontradable GDP) for the typical case of Argentina. I defined tradable GDP as Manufacturing value-added (ISIC divisions 15-37) and nontradable GDP as Services value-added (ISIC divisions 45-99). Data is collected from [World Bank's dataset](https://data.worldbank.org). The report is the file `SummerReport_CarlosRojas.pdf`.
+This folder contains files for the replication of my Summer Report. This was a short quantitative project where I estimated parameters associated with default cost across sectors (tradable and nontradable GDP) for the typical case of Argentina. I defined tradable GDP as Manufacturing value-added (ISIC divisions 15-37) and nontradable GDP as Services value-added (ISIC divisions 45-99). Data is collected from [World Bank's dataset](https://data.worldbank.org). The report is the file `SummerReport_CarlosRojas.pdf`.
 
 I describe the subfolders:
 
