@@ -8,8 +8,8 @@ Construction value-added was not considered because of its non-availability in t
 ## 🗂 Files
 
 ### Datasets
-- `Argentina_DataSet.xlsx`: This file has information on the Argentinean economy, like dates on financial crises, debt to GDP ratio, TFP, investment, net exports, real exchange rate, sovereign spread, an others. 
-- `CountriesDefault.xlsx`: Information of behavior of tradable and nontradable GDPs for a set of the following defaulters: 
+- `Argentina_DataSet.xlsx`: This file has information on the Argentinean economy, like dates on financial crises, debt to GDP ratio, TFP, investment, net exports, real exchange rate, sovereign spreads, an others. 
+- `CountriesDefault.xlsx`: Information of behavior of tradable and nontradable GDPs for the following defaulters: 
     -  Argentina, 2002		
     -  Chile, 1983		
     -  Costa Rica, 1981		
