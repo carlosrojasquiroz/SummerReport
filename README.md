@@ -1,6 +1,6 @@
 # Sectoral Productivity Losses from Sovereign Default Events: a simulation-based approach
 
-This folder contains files for the replication of my Summer Report. This is a short quantitative project that estimated parameters associated with default cost between sectors (tradable and nontradable GDP) for the typical case of Argentina. I defined tradable GDP as Manufacturing value-added (ISIC divisions 15-37) and nontradable GDP as Services value-added (ISIC divisions 45-99). Data is collected from [World Bank's dataset](https://data.worldbank.org). The report is the file `SummerReport_CarlosRojas.pdf`.
+This folder contains files for the replication of my Summer Report. This was a short quantitative project where I estimated parameters associated with default cost between sectors (tradable and nontradable GDP) for the typical case of Argentina. I defined tradable GDP as Manufacturing value-added (ISIC divisions 15-37) and nontradable GDP as Services value-added (ISIC divisions 45-99). Data is collected from [World Bank's dataset](https://data.worldbank.org). The report is the file `SummerReport_CarlosRojas.pdf`.
 
 I describe the subfolders:
 
@@ -13,7 +13,7 @@ Construction value-added was not considered because of its non-availability in t
 ## 🗂 Files
 
 ### Datasets
-- `Argentina_DataSet.xlsx`: This file has information on the Argentinean economy, like dates on financial crises, debt to GDP ratio, TFP, investment, net exports, real exchange rate, sovereign spreads, an others. 
+- `Argentina_DataSet.xlsx`: This file contains information on the Argentinean economy, like dates on financial crises, debt to GDP ratio, TFP, investment, net exports, real exchange rate, sovereign spreads, an others. 
 - `CountriesDefault.xlsx`: Information of tradable and nontradable GDPs for the following defaulters: 
     -  Argentina, 2002		
     -  Chile, 1983		
@@ -30,4 +30,4 @@ Construction value-added was not considered because of its non-availability in t
 
 ### Scripts and functions
 - `CountriesDefault.m`: It replicates Figure 1. To work with this script, you need the function `figureCyc.m`.
-- `EmpiricalEvidence.m`: This function estimates the effect of financial crises on Argentinean sectoral GDP. It follows the methodology from Gourinchas and Obstfeld (2012) which will be used in the Indirect Inference approach. Moreover, it computes main moments for the Simulated Method of Moments, and estimates the Argentinean TFP process by OLS. Finally, it replicates Figure 2. To run this function you need functions `Obstfeld_Gourinchas.m` and `visualize.m` (both functions in folder *Asymmetric Costs*).
+- `EmpiricalEvidence.m`: This function estimates the effect of financial crises on Argentinean sectoral GDP. It follows the methodology from Gourinchas and Obstfeld (2012) which will be used in the Indirect Inference approach. Moreover, it computes main moments for the Simulated Method of Moments, and estimates the Argentinean TFP process by OLS. Finally, it replicates Figure 2. To run this function you need functions `Obstfeld_Gourinchas.m` and `visualize.m` (both functions in folder **Asymmetric Costs**).
