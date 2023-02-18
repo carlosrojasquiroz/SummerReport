@@ -72,11 +72,11 @@ ii=gridsearch(p,v,d);
 % Standard errors
 ii.Qs=standarderrors(p,d,v,ii);
 %---------------------------------------------------------------------------------------------------------------------------
-cd '/Users/carlosrojasquiroz/Desktop/Summer Report/Master/OtherTry/One parameter'
+cd '/Users/carlosrojasquiroz/Desktop/SummerReport/SymmetricCosts'
 %---------------------------------------------------------------------------------------------------------------------------
-run Master1parameter.m
+run Master.m
 %---------------------------------------------------------------------------------------------------------------------------
-cd '/Users/carlosrojasquiroz/Desktop/Summer Report/Master/OtherTry'
+cd '/Users/carlosrojasquiroz/Desktop/SummerReport/AsymmetricCosts'
 %---------------------------------------------------------------------------------------------------------------------------
 productivityloss(v,smm,smm0,'CF1_smm.eps','CF2_smm.eps')
 productivityloss(v,ii,ii0,'CF1_ii.eps','CF2_ii.eps')
