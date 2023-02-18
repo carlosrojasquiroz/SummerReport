@@ -14,7 +14,7 @@ Construction value-added was not considered because of its non-availability in t
 
 ### Datasets
 - `Argentina_DataSet.xlsx`: This file contains information on the Argentinean economy, like dates on financial crises, debt to GDP ratio, TFP, investment, net exports, real exchange rate, sovereign spreads, among others. 
-- `CountriesDefault.xlsx`: Information of tradable and nontradable GDPs for the following defaulters (default year in parenthesis): 
+- `CountriesDefault.xlsx`: Information of tradable and nontradable GDPs for the following defaulters (year of the sovereign default event in parenthesis): 
     -  🇦🇷 Argentina (2002)		
     -  🇨🇱 Chile (1983)		
     -  🇨🇷 Costa Rica (1981)		
