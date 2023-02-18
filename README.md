@@ -16,10 +16,13 @@ Construction value-added was not considered because of its non-availability in t
     -  Ecuador, 1999		
     -  Grenada, 2004		
     -  Greece, 2012		
-    -  México, 1982		
+    -  Mexico, 1982		
     -  Pakistan, 1999		
     -  Peru, 1984		
     -  Turkey, 2001		
     -  Uruguay, 2003		
     -  Ukraine, 2015
 
+### Scripts
+- `CountriesDefault.m`: It replicates Figure 1. To work with this script, you need the function `figureCyc.m` and the dataset `CountriesDefault.xlsx`.
+- `EmpiricalEvidence.m`: 
