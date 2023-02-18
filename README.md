@@ -15,18 +15,18 @@ Construction value-added was not considered because of its non-availability in t
 ### Datasets
 - `Argentina_DataSet.xlsx`: This file contains information on the Argentinean economy, like dates on financial crises, debt to GDP ratio, TFP, investment, net exports, real exchange rate, sovereign spreads, an others. 
 - `CountriesDefault.xlsx`: Information of tradable and nontradable GDPs for the following defaulters: 
-    -  Argentina, 2002		
-    -  Chile, 1983		
-    -  Costa Rica, 1981		
-    -  Ecuador, 1999		
-    -  Grenada, 2004		
-    -  Greece, 2012		
-    -  Mexico, 1982		
-    -  Pakistan, 1999		
-    -  Peru, 1984		
-    -  Turkey, 2001		
-    -  Uruguay, 2003		
-    -  Ukraine, 2015
+    -  🇦🇷 Argentina, 2002		
+    -  🇨🇱 Chile, 1983		
+    -  🇨🇷 Costa Rica, 1981		
+    -  🇪🇨 Ecuador, 1999		
+    -  🇬🇩 Grenada, 2004		
+    -  🇬🇷 Greece, 2012		
+    -  🇲🇽 Mexico, 1982		
+    -  🇵🇰 Pakistan, 1999		
+    -  🇵🇪 Peru, 1984		
+    -  🇹🇷 Turkey, 2001		
+    -  🇺🇾 Uruguay, 2003		
+    -  🇺🇦 Ukraine, 2015
 
 ### Scripts and functions
 - `CountriesDefault.m`: It replicates Figure 1. To work with this script, you need the function `figureCyc.m`.
