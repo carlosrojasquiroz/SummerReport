@@ -36,6 +36,7 @@ Using data from the Groningen Growth and Development Center 10 sectors (GGDC) da
     -  🇨🇷 Costa Rica (1981)			
     -  🇲🇽 Mexico (1982)			
     -  🇵🇪 Peru (1984)		
+
 Notice that the conclusion on tradable GDP as a more sensitive sector to sovereign default events holds with this new dataset.     
     
 ### Scripts and functions
