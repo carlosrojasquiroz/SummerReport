@@ -37,7 +37,7 @@ Using data from the Groningen Growth and Development Center 10 sectors (GGDC) da
     -  🇲🇽 Mexico (1982)			
     -  🇵🇪 Peru (1984)		
 
-<span style="background-color: #FFFF00">Notice that the conclusion on tradable GDP as a more sensitive sector to sovereign default events holds with this new dataset.</span>      
+==Notice that the conclusion on tradable GDP as a more sensitive sector to sovereign default events holds with this new dataset.==   
     
 ### Scripts and functions
 - `CountriesDefault.m`: It replicates Figure 1. To work with this script, you need the function `figureCyc.m`.
